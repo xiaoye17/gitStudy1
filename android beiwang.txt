@@ -1,0 +1,3 @@
+Android Studio 下载地址：https://developer.android.google.cn/studio/
+Android Studio、JDK路径配置：https://blog.csdn.net/yangjunjin/article/details/113577570
+Git使用：https://www.runoob.com/w3cnote/git-five-minutes-tutorial.html
